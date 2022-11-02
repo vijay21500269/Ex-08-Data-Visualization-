@@ -131,5 +131,11 @@ plt.show()
 # OUPUT
 ![img1]()
 ![img2]()
+![img3]()
+![img4]()
+![img5]()
+![img6]()
+![img7]()
+![img8]()
 # RESULT:
 Hence, Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
