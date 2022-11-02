@@ -129,8 +129,8 @@ plt.show()
 ~~~
 
 # OUPUT
-![img1]()
-![img2]()
+![img1](https://github.com/vijay21500269/Ex-08-Data-Visualization-/blob/main/DS%20.png)
+![img2](https://github.com/vijay21500269/Ex-08-Data-Visualization-/blob/main/DS%20 1.png)
 ![img3]()
 ![img4]()
 ![img5]()
