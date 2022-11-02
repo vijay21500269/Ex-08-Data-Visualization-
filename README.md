@@ -130,13 +130,13 @@ plt.show()
 
 # OUPUT
 ![img1](https://github.com/vijay21500269/Ex-08-Data-Visualization-/blob/main/DS%20.png)
-![img2](https://github.com/vijay21500269/Ex-08-Data-Visualization-/blob/main/DS%20 1.png)
-![img3]()
-![img4]()
-![img5]()
-![img6]()
-![img7]()
-![img8]()
-![img9]()
+![img2](https://github.com/vijay21500269/Ex-08-Data-Visualization-/blob/main/DS%201.png)
+![img3](https://github.com/vijay21500269/Ex-08-Data-Visualization-/blob/main/DS%202.png)
+![img4](https://github.com/vijay21500269/Ex-08-Data-Visualization-/blob/main/DS%203.png)
+![img5](https://github.com/vijay21500269/Ex-08-Data-Visualization-/blob/main/DS%204.png)
+![img6](https://github.com/vijay21500269/Ex-08-Data-Visualization-/blob/main/DS%205.png)
+![img7](https://github.com/vijay21500269/Ex-08-Data-Visualization-/blob/main/DS%206.png)
+![img8](https://github.com/vijay21500269/Ex-08-Data-Visualization-/blob/main/DS%207.png)
+![img9](https://github.com/vijay21500269/Ex-08-Data-Visualization-/blob/main/DS%208.png)
 # RESULT:
 Hence, Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
